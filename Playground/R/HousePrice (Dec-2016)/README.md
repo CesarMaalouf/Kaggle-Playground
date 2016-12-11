@@ -1,2 +1,2 @@
-<a href="https://rpubs.com/Ludovicbenistant/HousePrice">Final Output</a>.
+Find here the <a href="https://rpubs.com/Ludovicbenistant/HousePrice">final output.</a>
 
